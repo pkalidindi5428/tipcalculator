@@ -85,6 +85,7 @@
                     </view>
                     <navigationItem key="navigationItem" title="Tip Calculator" id="kmn-kp-4zM"/>
                     <connections>
+                        <outlet property="billField" destination="qbd-Xw-UnR" id="55Q-LF-Thb"/>
                         <outlet property="tipLabel" destination="JTB-vL-gG3" id="0ZR-y3-AQn"/>
                         <outlet property="totalLabel" destination="LTq-6e-zXa" id="j00-X5-4yX"/>
                     </connections>
