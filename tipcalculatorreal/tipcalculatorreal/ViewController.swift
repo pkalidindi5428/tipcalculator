@@ -10,6 +10,8 @@ import UIKit
 
 class ViewController: UIViewController {
 
+    @IBOutlet weak var totalLabel: UILabel!
+    @IBOutlet weak var tipLabel: UILabel!
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
@@ -21,5 +23,11 @@ class ViewController: UIViewController {
     }
 
 
+    @IBAction func onTap(_ sender: Any) {
+        view.endEditing(true)
+    }
+    @IBAction func calculateTip(_ sender: Any) {
+        
+    }
 }
 
