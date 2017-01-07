@@ -6,5 +6,4 @@ Features:
 -calculates total
 -automatically updates values when bill amount is edited
 
-
-![An open source player](http://i.imgur.com/pujGmeN.gifv)
+![demo gif](http://i.imgur.com/pujGmeN.gifv)
