@@ -5,3 +5,5 @@ Features:
 -multiple options for tip percentage  (18%, 20%, 25%)
 -calculates total
 -automatically updates values when bill amount is edited
+
+http://i.imgur.com/pujGmeN.gifv
